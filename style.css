@@ -1,0 +1,43 @@
+html {
+    background-color: black;
+}
+
+div {
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 50px;
+}
+h1 {
+    color: white;
+    font-style: normal;
+    font-weight: 900;
+    text-transform: uppercase;
+}
+
+h3 {
+    color: white;
+    font-style: normal;
+    font-weight: 400;
+}
+
+.txt {
+    font-family: "Libre Baskerville", serif;
+    text-align: center;
+}
+
+img {
+    border: 5px solid white;
+    width: 100%;
+}
+
+p{
+    color: white;
+    text-align: center;
+}
+
+footer {
+    background-color: #750E21;
+    padding: 20px;
+    margin-left: 10px;
+    margin-bottom: 40px;
+}
